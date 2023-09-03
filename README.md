@@ -3,4 +3,8 @@
 I visualized the last 30 days' earthquakes in this project using a leaflet map. 
 please visit the [github page](https://mahsabakhtiari.github.io/QuakeDash/) of this repository to check out the map.
 
+## References 
+* https://leafletjs.com/examples/choropleth/
+* https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
 
